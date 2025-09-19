@@ -1,0 +1,31 @@
+# ----------------
+# IDE / system
+# ----------------
+*.iml
+.idea/
+.vscode/
+
+# ----------------
+# Backend (Spring Boot)
+# ----------------
+SpringEcom/SpringEcom/target/
+SpringEcom/SpringEcom/build/
+SpringEcom/SpringEcom/src/main/resources/application.properties
+SpringEcom/SpringEcom/src/main/resources/application.yml
+
+# Maven wrapper
+SpringEcom/SpringEcom/.mvn/
+SpringEcom/SpringEcom/mvnw
+SpringEcom/SpringEcom/mvnw.cmd
+
+# ----------------
+# Frontend (React)
+# ----------------
+ecom-frontend-5-main/ecom-frontend-5-main/node_modules/
+ecom-frontend-5-main/ecom-frontend-5-main/build/
+ecom-frontend-5-main/ecom-frontend-5-main/dist/
+
+# ----------------
+# Logs
+# ----------------
+*.log
